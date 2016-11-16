@@ -16,7 +16,7 @@ scanf("%d",&a);
 printf("enter a number");
 scanf("%d",&b);
 product=a*b;
-printf("Sum of two numbers is: %d",product);
+printf("Product of two numbers is: %d",product);
 getch();
 return(0);
 }
