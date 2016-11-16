@@ -10,7 +10,7 @@ DATE: November 14
 #include<conio.h>
 int main()
 {
-printf("My name is Hemanta Deuba");
+printf(" My name is Hemanta Deuba \n");
 getch(); //hold screen o/p
 return 0; //return (0)
 }
