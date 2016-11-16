@@ -3,7 +3,7 @@ Student name: Hemanta Deuba
 Subject: Programming Fundamentals
 Roll no: 06
 Lab-sheet no: 02
-Program: BCS
+Program: Program to find the sum and product of three numbers given by the user.
 Date: 16th November, 2016
 */
 #include<stdio.h>
