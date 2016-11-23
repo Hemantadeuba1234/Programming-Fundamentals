@@ -1,9 +1,9 @@
 /*
-student name:kamal rokka chhetri
+student name:Hemanta Deuba
 subject:programming fundamental
 program:w.a.p to find roots of quadratic equation
-roll no.
-date:31,nov,2016
+roll no:06
+date:23 NOV,2016
 */
 #include<stdio.h>
 //#include<conio.h>
