@@ -2,17 +2,16 @@
 Student Name: Hemanta Deuba
 Roll no: 17
 Subject: Programming Fundamentals
-Program: WAP to check the given number is palindrome or not.
+Program: WAP to print reverse of any number.
 Lab sheet: 19
 Date: January 16,2017
 */
 #include<stdio.h>
 int main ()
     {
-    int i,n,rev,reverse=0;
+    int n,rev,reverse=0;
             printf("enter the number:");
             scanf("%d",&n);
-    i=n;
             while (n>0)
     {
     rev=n%10;
